@@ -1,0 +1,14 @@
+100 elements
+6 is the minimum
+298 in
+300 out
+317 in
+319 out
+17 in
+223 out
+6 in
+57 out
+110 in
+0 out
+1 out
+5 out

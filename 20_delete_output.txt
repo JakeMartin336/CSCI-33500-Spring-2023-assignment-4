@@ -1,0 +1,20 @@
+20 elements
+0 is the minimum
+5 not found
+5 not found - min 0
+3 deleted
+3 not found - min 0
+0 deleted
+0 not found - min 11
+2 not found
+2 not found - min 11
+12 deleted
+12 not found - min 11
+7 not found
+7 not found - min 11
+5 good - min 5
+3 good - min 3
+0 good - min 0
+2 good - min 0
+12 good - min 0
+7 good - min 0

@@ -1,0 +1,32 @@
+100 elements
+6 is the minimum
+298 deleted
+298 not found - min 6
+317 deleted
+317 not found - min 6
+6 deleted
+6 not found - min 8
+17 deleted
+17 not found - min 8
+110 deleted
+110 not found - min 8
+272 deleted
+272 not found - min 8
+240 deleted
+240 not found - min 8
+213 deleted
+213 not found - min 8
+8 deleted
+8 not found - min 13
+127 deleted
+127 not found - min 13
+298 good - min 13
+317 good - min 13
+6 good - min 6
+17 good - min 6
+110 good - min 6
+272 good - min 6
+240 good - min 6
+213 good - min 6
+8 good - min 6
+127 good - min 6
